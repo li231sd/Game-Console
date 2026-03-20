@@ -2,7 +2,7 @@
 
 ### This project's purpose is to use an Arduino Pro Mini + a custom PCB to run a small minigame on a 0.96 OLED screen with real-time buzzer feedback!
 
-### The whole reasoning behind the project was to learn more about CADDING and PCB design. Throughout the process, I learned how to make custom symbols in the symbol editor in KiCad, and I learned how to run and fix DRC issues. Furthermore, I learned how to make assemblies in SolidWorks, as I am new to it, and I even learned how to use open source CADs on parts I was going to use.
+### The whole point of the project was to learn more about CADDING and PCB design. Throughout the process, I learned to create custom symbols in KiCad's symbol editor and to run and fix DRC issues. I learned to create assemblies in SolidWorks and to use open-source CAD software for the parts I planned to use.
 
 ### Here is version #1 of my project:
 <img width="1027" height="466" alt="image" src="https://github.com/user-attachments/assets/35e8b0a8-0992-40c7-acd0-f994b4fda5ee" />
